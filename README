@@ -1,0 +1,3 @@
+A simple Ruby app that uses the Sunlight Foundation's Congress API to get a list of legislators based on a person's zipcode. Then generates a personalize letter to the person listing out their legislators and their websites in a HTML table.
+
+The app is written as an example of how you would create letters to people who attended a political action conference.
